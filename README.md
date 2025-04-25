@@ -16,8 +16,8 @@ The source code is proprietary and not included in this repository.
 
 ## Documentation
 Full technical documentation is available in the `docs/` folder:
-- `OrderBlock_Report_IT.pdf` – Technical report (Italian)
-- `OrderBlock_Report_EN.pdf` – Technical report (English)
+- `Order Block Optimized ITA.pdf` – Technical report (Italian)
+- `Order Block Optimized ENG.pdf` – Technical report (English)
 
 These documents include:
 - Detailed explanation of how the indicator works
